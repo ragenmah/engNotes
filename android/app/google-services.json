@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022228096579",
+    "firebase_url": "https://engnotes-7aa33.firebaseio.com",
+    "project_id": "engnotes-7aa33",
+    "storage_bucket": "engnotes-7aa33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022228096579:android:cff108b416858eae1356f6",
+        "android_client_info": {
+          "package_name": "com.example.engnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022228096579-5er33h9fn5f6aq2jbmr5s8nc6uapncbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.engnotes",
+            "certificate_hash": "2949d50d4c0df3f629144bc69ae84397fa83f178"
+          }
+        },
+        {
+          "client_id": "1022228096579-1hckckopde7rgkp2qmcfcj61rp70206s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdMl18MkGHUIRBoP4_Tg0lcaszLKBKik4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022228096579-1hckckopde7rgkp2qmcfcj61rp70206s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
