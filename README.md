@@ -12,6 +12,18 @@ In this app You can add ,view, update and Delete the notes, Also you can read on
 
 ## Outputs
 
+![read  online](https://user-images.githubusercontent.com/30024247/85259612-12f84080-b489-11ea-9950-1b99c651cdc6.PNG)
+![signup](https://user-images.githubusercontent.com/30024247/85259618-14296d80-b489-11ea-87f3-8dfcd04b2768.PNG)
+![ssms1](https://user-images.githubusercontent.com/30024247/85259619-14c20400-b489-11ea-8a9b-68489b4345db.PNG)
+![sssms](https://user-images.githubusercontent.com/30024247/85259620-155a9a80-b489-11ea-82e5-66c07a56a44b.PNG)
+![add note](https://user-images.githubusercontent.com/30024247/85259624-15f33100-b489-11ea-8141-a9a31066ea04.PNG)
+![detail](https://user-images.githubusercontent.com/30024247/85259625-168bc780-b489-11ea-8dea-f46ab682167c.PNG)
+![download](https://user-images.githubusercontent.com/30024247/85259626-168bc780-b489-11ea-8f8e-ea0636e020f0.PNG)
+![edit note](https://user-images.githubusercontent.com/30024247/85259628-17245e00-b489-11ea-8609-a2dd216fe757.PNG)
+![home](https://user-images.githubusercontent.com/30024247/85259629-17bcf480-b489-11ea-908c-7a65169e1061.PNG)
+![login](https://user-images.githubusercontent.com/30024247/85259632-18558b00-b489-11ea-86b9-ea6d3f93e1ac.PNG)
+
+
 
 
 
